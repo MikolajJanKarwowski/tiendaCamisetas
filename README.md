@@ -25,8 +25,8 @@ cd tiendaCamisetas
 - models: Contiene las clases que representan los modelos de la aplicación y gestionan las interacciones con la base de datos.
 - views: Contiene las plantillas de las vistas de la aplicación.
 - uploads: Contiene las imagenes que se mandan a la hora de crear los productos
-El directorio assets contiene los archivos accesibles públicamente.
+### El directorio assets contiene los archivos accesibles públicamente.
 - css: Contiene los archivos CSS para estilizar la aplicación.
 - img: Contiene las imágenes utilizadas en la tienda.
-El directorio config contiene los archivos de configuración de la aplicación.
-El archivo index.php es el punto de entrada de la aplicación.
+### El directorio config contiene los archivos de configuración de la aplicación.
+### El archivo index.php es el punto de entrada de la aplicación.
